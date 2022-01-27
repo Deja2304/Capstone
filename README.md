@@ -3,7 +3,7 @@ Author: Deja Prade
 
 # Overview
 
-In this project, I build a toy recommendation system using the amazon e-commerce data. I develop a content-based recommendation model using NLP and a collaborative-based model using SVD. 
+In this project, I build a toy recommendation system using the amazon e-commerce data. I develop a content-based recommendation model using NLP and cosine similarity and a collaborative-based model using SVD. 
 
 # Business Understanding
 
