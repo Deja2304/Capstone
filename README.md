@@ -11,7 +11,7 @@ Kaylee (my stakeholder/daughter) is a one year old whom is pretty spoiled. Of co
 
 # Data
 
-Data(https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon)
+[Data](https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon)
 
 I used toy data from Amazon E-commerce which includes 10000 products. The dataset contains product names, ids, catergories, average ratings, description and etc.
 
