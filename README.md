@@ -1,4 +1,4 @@
-        <img width="594" alt="Screen Shot 2022-01-28 at 4 02 09 AM" src="https://user-images.githubusercontent.com/92389914/151527350-ff17c06d-6630-47f4-90e8-e228af2a9c47.png">
+   <img width="594" alt="Screen Shot 2022-01-28 at 4 02 09 AM" src="https://user-images.githubusercontent.com/92389914/151527350-ff17c06d-6630-47f4-90e8-e228af2a9c47.png">
 
 # Kaylees new toy: Using Amazon data to recommend a new toy for my daughter
 Author: Deja Prade
